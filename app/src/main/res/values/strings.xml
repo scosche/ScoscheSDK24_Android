@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Scosche SDK24 Test App</string>
+    <string name="scanningForMonitors_label">Scanning for monitors.</string>
+    <string name="connect_label">Connect</string>
+
+
+    <string name="heart_rate_label">Heart Rate:</string>
+    <string name="battery_label">Battery:</string>
+    <string name="sportmode_label">Sport Mode:</string>
+    <string name="firmwareVersion_label">Firmware Version:</string>
+
+    <string name="zoneOneTwo_label">Zone one/two:</string>
+    <string name="zoneTwoThree_label">Zone two/three:</string>
+    <string name="zoneThreeFour_label">Zone three/four:</string>
+    <string name="zoneFourFive_label">Zone four/five:</string>
+
+    <string name="readSportMode_label">Read Sport Mode</string>
+    <string name="setSportMode_label">Set Sport Mode</string>
+    <string name="readZoneValues_label">Read zone values</string>
+    <string name="updateZoneValues_label">Update zone values</string>
+    <string name="viewFitFiles_label">View Fit Files</string>
+    <string name="download_label">Download</string>
+    <string name="delete_label">Delete</string>
+</resources>
